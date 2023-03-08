@@ -42,4 +42,6 @@ public class MemberController {
 		
 		return "regi";
 	}
+
+	//git test
 }
