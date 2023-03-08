@@ -44,4 +44,5 @@ public class MemberController {
 	}
 
 	//git test
+	//다연 test
 }
